@@ -81,7 +81,7 @@ require 'securerandom'
 		
 
 		options ={
-		 	email: 'ewilliam@ramintest.com'
+		 	email: 'test@test.com'
 		}
 		 	
 		results = @ffl.run("data/customer/show", options)
